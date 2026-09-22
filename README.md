@@ -42,8 +42,8 @@ O backend controla o estado da partida (palavra secreta, tentativas restantes e 
 
 ## 👥 Integrantes
 
-Luca Tiepolo Schmidt Morete — RM 560255
-Carlos Bucker — RM 555812
+- Luca Tiepolo Schmidt Morete — RM 560255
+- Carlos Bucker — RM 555812
 
 ---
 
