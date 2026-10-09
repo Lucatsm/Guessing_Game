@@ -6,7 +6,7 @@ import uuid
 st.set_page_config(page_title="Desafio da Palavra Misteriosa", layout="wide")
 
 # URL do Webhook do n8n
-WEBHOOK_URL = "https://lucatsm.app.n8n.cloud/webhook/desafio-palavra-misteriosa"
+WEBHOOK_URL = "https://lucatsm1.app.n8n.cloud/webhook/desafio-palavra-misteriosa"
 
 # 1. INICIALIZAÇÃO DOS ESTADOS DO JOGO (Session State)
 if "session_id" not in st.session_state:
